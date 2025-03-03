@@ -5,6 +5,9 @@
 <h1 align="center">Hi 👋, I'm Sabrina Sultana Prity</h1>
 <h3 align="center">A passionate Software Engineer & Backend developer from Bangladesh.</h3>
 
+<p align="right" alt="coding" width="400">
+   <img src="[assets/coding-animation.gif](https://www.google.com/imgres?q=assets%2Fcoding-animation.gif%20gir&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fuserupload%2F30832962%2Ffile%2Foriginal-199091f9b19f067153ecd518321a3898.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&docid=S2_fnYEU1a3BSM&tbnid=S6Mdjsw9ViHNMM&vet=12ahUKEwjPsrPfyu2LAxUfTmwGHb1qAYcQM3oECBcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjPsrPfyu2LAxUfTmwGHb1qAYcQM3oECBcQAA)](https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif)" >
+</p>
 <img align="right" alt="coding" width="400" src="[assets/coding-animation.gif](https://www.google.com/imgres?q=assets%2Fcoding-animation.gif%20gir&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fuserupload%2F30832962%2Ffile%2Foriginal-199091f9b19f067153ecd518321a3898.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&docid=S2_fnYEU1a3BSM&tbnid=S6Mdjsw9ViHNMM&vet=12ahUKEwjPsrPfyu2LAxUfTmwGHb1qAYcQM3oECBcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjPsrPfyu2LAxUfTmwGHb1qAYcQM3oECBcQAA)](https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif)">
 
 
