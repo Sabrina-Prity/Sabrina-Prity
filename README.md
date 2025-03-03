@@ -1,4 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/124692695/224404770-c56e7d9a-2065-4244-844b-94d269a2a970.gif)]
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/124692695/224404770-c56e7d9a-2065-4244-844b-94d269a2a970.gif" width="800">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sabrina Sultana Prity</h1>
 <h3 align="center">A passionate backend developer from Bangladesh, Skilled in Python, Django, DRF, and SQL.</h3>
 
