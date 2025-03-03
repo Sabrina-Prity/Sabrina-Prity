@@ -3,9 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sabrina Sultana Prity</h1>
-<h3 align="center">A passionate backend developer from Bangladesh, Skilled in Python, Django, DRF, and SQL.</h3>
+<h3 align="center">A passionate Software Engineer & Backend developer from Bangladesh.</h3>
 
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<img align="right" alt="coding" width="400" src="[assets/coding-animation.gif](https://www.google.com/imgres?q=assets%2Fcoding-animation.gif%20gir&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fuserupload%2F30832962%2Ffile%2Foriginal-199091f9b19f067153ecd518321a3898.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&docid=S2_fnYEU1a3BSM&tbnid=S6Mdjsw9ViHNMM&vet=12ahUKEwjPsrPfyu2LAxUfTmwGHb1qAYcQM3oECBcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjPsrPfyu2LAxUfTmwGHb1qAYcQM3oECBcQAA)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabrina-prity&label=Profile%20views&color=0e75b6&style=flat" alt="sabrina-prity" /> </p>
 
