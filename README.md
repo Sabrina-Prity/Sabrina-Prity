@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://drive.google.com/drive/my-drive" width="800">
+   <img src="[https://drive.google.com/drive/my-drive](https://github.com/Sabrina-Prity/Sabrina-Prity/blob/main/Cover%20Image.png)" width="800">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sabrina Sultana Prity</h1>
