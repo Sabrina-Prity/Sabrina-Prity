@@ -11,7 +11,7 @@
 
 - 👨‍💻 Portfolio: [View Here](https://sabrina-prity.github.io/Portfolio/)
 
-- 📫 How to reach me **sabrinaprity898@gmail.com**
+- Contact Me: [sabrinaprity898@gmail.com](mailto:sabrinaprity898@gmail.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EFg3TQXf_jlAVXJGMHb7PGO4RwP8lLS7/view?usp=sharing](https://drive.google.com/file/d/1EFg3TQXf_jlAVXJGMHb7PGO4RwP8lLS7/view?usp=sharing)
 
