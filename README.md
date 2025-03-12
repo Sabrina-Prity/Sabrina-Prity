@@ -3,7 +3,6 @@
 </p>
 
 <h2> Hi, I'm Sabrina Sultana Prity! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <h6>I am a highly motivated Software Engineer from Bangladesh, specializing in Backend Development with deep expertise in Python, Django, C/C++, JavaScript, HTML, CSS, and SQL. With over 1+ years of experience in tackling complex problems, I consistently excel in coding challenges on platforms like CodeChef (2-star) and Codeforces (newbie), sharpening my algorithmic skills and optimizing my problem-solving approaches. I am also proficient in Data Structures and Algorithms, which enables me to design efficient and scalable solutions.</h6>
 
 
@@ -14,6 +13,7 @@
 - 📫 Contact Me: [sabrinaprity898@gmail.com](mailto:sabrinaprity898@gmail.com)
 
 - 📄 Resume: [Click Here](https://drive.google.com/file/d/1EFg3TQXf_jlAVXJGMHb7PGO4RwP8lLS7/view?usp=sharing)
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
