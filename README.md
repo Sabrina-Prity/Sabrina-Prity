@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabrina-prity&label=Profile%20views&color=0e75b6&style=flat" alt="sabrina-prity" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sabrina-prity.github.io/Portfolio/](https://sabrina-prity.github.io/Portfolio/)
+- 👨‍💻 Portfolio: [View Here](https://sabrina-prity.github.io/Portfolio/)
 
 - 📫 How to reach me **sabrinaprity898@gmail.com**
 
