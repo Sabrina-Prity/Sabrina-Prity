@@ -2,9 +2,9 @@
    <img src="https://github.com/Sabrina-Prity/Sabrina-Prity/blob/main/Cover%20Image.png">
 </p>
 
-<h2 align="center"> Hi, I'm Sabrina Sultana Prity! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Sabrina Sultana Prity! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<h3 align="center">A passionate Software Engineer & Backend Developer from Bangladesh.</h3>
+<h6>A passionate Software Engineer & Backend Developer from Bangladesh.</h6>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabrina-prity&label=Profile%20views&color=0e75b6&style=flat" alt="sabrina-prity" /> </p>
