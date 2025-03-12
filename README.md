@@ -2,7 +2,8 @@
    <img src="https://github.com/Sabrina-Prity/Sabrina-Prity/blob/main/Cover%20Image.png">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sabrina Sultana Prity</h1>
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <h3 align="center">A passionate Software Engineer & Backend Developer from Bangladesh.</h3>
 
 
