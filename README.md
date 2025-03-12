@@ -4,7 +4,7 @@
 
 <h2> Hi, I'm Sabrina Sultana Prity! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<h5>A passionate Software Engineer & Backend Developer from Bangladesh.</h5>
+<h4>A passionate Software Engineer & Backend Developer from Bangladesh.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabrina-prity&label=Profile%20views&color=0e75b6&style=flat" alt="sabrina-prity" /> </p>
