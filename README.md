@@ -3,7 +3,8 @@
 </p>
 
 <h2> Hi, I'm Sabrina Sultana Prity! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h4>I'm a passionate Software Engineer from Bangladesh, skilled in <code>C/C++</code>, <code>Python</code>, <b>Django</b>, <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b>, and <b>SQL</b>. </h4>
+<h3>I'm a passionate Software Engineer from Bangladesh, skilled in <code>C/C++</code>, <code>Python</code>, <b><code>Django</code></b>, <b><code>JavaScript</code></b>, <b><code>HTML</code></b>, <b><code>CSS</code></b>, and <b><code>SQL</code></b>.</h3>
+
 <p>I am a highly motivated Software Engineer from Bangladesh, specializing in Backend Development with deep expertise in Python, Django, C/C++, JavaScript, HTML, CSS, and SQL. With over 1+ years of experience in tackling complex problems, I consistently excel in coding challenges on platforms like CodeChef (2-star) and Codeforces (newbie), sharpening my algorithmic skills and optimizing my problem-solving approaches. I am also proficient in Data Structures and Algorithms, which enables me to design efficient and scalable solutions.</p>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
